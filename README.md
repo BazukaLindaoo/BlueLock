@@ -1,16 +1,17 @@
+-- leaked by galaxy.lua ;; published by 25ms :p
 local Luna = loadstring(game:HttpGet("http://you.whimper.xyz/sources/lunaUi.lua"))()
 local VIM = game:GetService("VirtualInputManager")
 
 local Window = Luna:CreateWindow({
-    Name = "BazukaHub Blue Lock Rivals V0.3",
-    Subtitle = "discord.gg/afrVhxQdYW", 
+    Name = "TheBillDevHub Blue Lock Rivals V0.3",
+    Subtitle = "discord.gg/thebilldev", 
     LogoID = "",
     LoadingEnabled = false,
-    LoadingTitle = "Bazuka Hub",
-    LoadingSubtitle = "by Bazuka",
+    LoadingTitle = "Thebilldev Hub",
+    LoadingSubtitle = "by Galaxy",
     ConfigSettings = {
         RootFolder = nil,
-        ConfigFolder = "Bazuka Hub"
+        ConfigFolder = "Big Hub"
     },
     KeySystem = false
 })
